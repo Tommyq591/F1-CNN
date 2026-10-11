@@ -1,0 +1,6 @@
+{
+  "provenance": "User supplied summary of a friend's cleaning run; not independently verified against the cleaned files",
+  "original": {"photos": 2471, "clean": 2143, "warnings": 326, "broken": 2, "non_image_files": 15, "duplicate_groups": 21},
+  "changes": {"standardised": 2429, "broken_removed": 2, "same_team_duplicates_removed": 2, "cross_team_conflicts_quarantined": 38, "failed_operations": 0},
+  "cleaned": {"photos": 2429, "warnings": 0, "broken": 0, "duplicate_groups": 0, "non_jpeg": 0, "non_rgb": 0, "wrong_extensions": 0, "team_names_in_filenames": 0}
+}
