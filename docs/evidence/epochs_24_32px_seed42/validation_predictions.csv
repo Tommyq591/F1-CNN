@@ -1,0 +1,366 @@
+path,actual_team,predicted_team,correct
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000217.jpg,Renault F1 car,Red Bull Racing F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000167.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000279.jpg,Red Bull Racing F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000029.jpg,Red Bull Racing F1 car,Mercedes F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000163.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000472.jpg,Williams F1 car,Red Bull Racing F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000264.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000320.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000261.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000249.jpg,McLaren F1 car,Ferrari F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\AlphaTauri F1 car\00000506.jpg,AlphaTauri F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000071.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000439.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000440.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000187.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000071.185422,Red Bull Racing F1 car,McLaren F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000473.jpg,Red Bull Racing F1 car,Ferrari F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000386.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000329.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000225.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000081.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000465.jpg,Renault F1 car,Racing Point F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000037.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000331.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000079.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000333.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000124.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000033.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000014.jpg,McLaren F1 car,Ferrari F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000366.png,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000099.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000289.jpg,Renault F1 car,McLaren F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000015.jpg,McLaren F1 car,Renault F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000427.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\AlphaTauri F1 car\00000176.jpg,AlphaTauri F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000249.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000118.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000105.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000009.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000140.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000298.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000064.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000008.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000532.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000335.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000305.jpg,Renault F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000467.jpg,Red Bull Racing F1 car,McLaren F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000130.jpg,Racing Point F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000139.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000060.jpg,Renault F1 car,Red Bull Racing F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000425.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000087.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000324.jpeg,Mercedes F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000224.jpg,Ferrari F1 car,Racing Point F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000452.jpeg,Mercedes F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000070.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000483.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000027.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000141.jpeg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000284.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000223.231327,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000388.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000164.jpg,Red Bull Racing F1 car,Racing Point F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000391.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000224.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000245.jpg,Williams F1 car,Red Bull Racing F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000088.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000480.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000446.png,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000330.360695,Racing Point F1 car,Renault F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000091.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000287.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000205.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000360.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000388.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000376.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\AlphaTauri F1 car\00000131.jpg,AlphaTauri F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000386.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000483.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000059.156720,Red Bull Racing F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000290.78113,Racing Point F1 car,McLaren F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000052.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000188.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000392.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000205.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000291.jpg,Renault F1 car,McLaren F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000126.jpg,Mercedes F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000088.jpg,McLaren F1 car,Racing Point F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000465.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000528.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000405.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000383.jpg,McLaren F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000510.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000222.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000496.337275,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000047.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000415.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000456.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000114.144126,Williams F1 car,Mercedes F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000504.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000444.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000273.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000470.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000195.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000083.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000297.jpg,Mercedes F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000052.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000023.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000093.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000400.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000083.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000136.jpg,Mercedes F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000015.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000363.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000227.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000016.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000085.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000088.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000175.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000185.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000165.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000182.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000417.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000025.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000039.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000110.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000106.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000235.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000039.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000273.jpg,Mercedes F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000401.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000463.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000071.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000429.jpg,McLaren F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000190.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000180.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000346.jpg,Renault F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000093.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000171.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000244.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000513.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000233.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000240.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000376.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000427.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000174.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000099.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000214.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000114.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000121.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000166.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000522.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000385.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000115.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000068.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000057.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000063.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000129.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000292.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000310.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000345.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000339.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000110.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000100.jpg,McLaren F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000497.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000399.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000337.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000161.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000507.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\AlphaTauri F1 car\00000145.jpg,AlphaTauri F1 car,Racing Point F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000096.jpg,McLaren F1 car,Renault F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000430.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000283.jpeg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000184.jpg,Renault F1 car,McLaren F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000433.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000431.jpg,McLaren F1 car,Renault F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000405.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\AlphaTauri F1 car\00000467.jpg,AlphaTauri F1 car,Mercedes F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000264.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000311.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000202.260024,Renault F1 car,Racing Point F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000481.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000204.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000203.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000267.223809,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000173.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000152.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000171.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000393.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000503.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000097.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000410.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000044.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000139.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000387.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000220.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000021.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\AlphaTauri F1 car\00000024.jpg,AlphaTauri F1 car,Mercedes F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\AlphaTauri F1 car\00000120.jpg,AlphaTauri F1 car,Red Bull Racing F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000432.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000321.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000260.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000013.jpg,Williams F1 car,Red Bull Racing F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000382.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000359.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000227.jpg,Mercedes F1 car,Renault F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000438.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000320.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000432.jpg,McLaren F1 car,Red Bull Racing F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000373.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000451.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000369.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000295.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000029.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000099.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000165.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000188.jpg,Renault F1 car,McLaren F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000255.jpg,Mercedes F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000136.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000483.239684,Red Bull Racing F1 car,McLaren F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000279.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000341.png,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000052.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000183.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000290.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000523.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000484.jpg,Red Bull Racing F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000450.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000469.png,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000280.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000024.jpg,Renault F1 car,McLaren F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000141.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000133.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000005.jpg,Ferrari F1 car,Red Bull Racing F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000456.jpg,Mercedes F1 car,Renault F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000206.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000346.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000202.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000088.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000173.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000500.jpg,Williams F1 car,Mercedes F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000110.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000419.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000279.jpg,Williams F1 car,Racing Point F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000058.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000314.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000457.jpeg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000146.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000032.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000200.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000336.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000446.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000242.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000067.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000007.jpg,Ferrari F1 car,McLaren F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000140.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000300.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000513.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000191.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000393.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000216.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000464.jpg,Williams F1 car,Red Bull Racing F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000318.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000379.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000012.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000457.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000208.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000198.jpg,Mercedes F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000027.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000427.jpg,Mercedes F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\AlphaTauri F1 car\00000093.jpg,AlphaTauri F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000282.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000103.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000058.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000040.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000197.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000474.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\AlphaTauri F1 car\00000266.jpg,AlphaTauri F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000450.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\AlphaTauri F1 car\00000022.jpg,AlphaTauri F1 car,Mercedes F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\AlphaTauri F1 car\00000061.jpg,AlphaTauri F1 car,AlphaTauri F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000480.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000475.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000415.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000194.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000448.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000338.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000180.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000067.jpg,Ferrari F1 car,McLaren F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000212.jpg,Renault F1 car,McLaren F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000420.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000404.jpg,Ferrari F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000512.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\AlphaTauri F1 car\00000299.jpg,AlphaTauri F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000369.jpg,Williams F1 car,Ferrari F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000274.jpg,Mercedes F1 car,Renault F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000438.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000511.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000492.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\AlphaTauri F1 car\00000221.jpg,AlphaTauri F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000162.png,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000482.png,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000106.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000053.jpg,Mercedes F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000022.140416,Mercedes F1 car,AlphaTauri F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000549.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000153.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000472.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000344.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000000.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000136.jpeg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000407.jpg,Mercedes F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000003.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000373.jpg,Ferrari F1 car,McLaren F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000361.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000222.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000471.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000543.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000159.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000235.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000085.png,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000020.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\AlphaTauri F1 car\00000095.jpg,AlphaTauri F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000536.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000303.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000013.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000179.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000261.jpg,Mercedes F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000101.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000494.jpg,Renault F1 car,McLaren F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000069.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000193.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000440.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000512.jpg,McLaren F1 car,Racing Point F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\AlphaTauri F1 car\00000248.jpg,AlphaTauri F1 car,Racing Point F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000377.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000223.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000212.jpg,McLaren F1 car,Ferrari F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000102.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000533.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000326.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000270.jpg,Mercedes F1 car,Mercedes F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000406.gif,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000008.jpg,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000278.jpg,Mercedes F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000035.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000313.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000228.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000503.319941,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000418.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000341.jpg,Red Bull Racing F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Williams F1 car\00000104.jpg,Williams F1 car,Williams F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000128.jpg,Mercedes F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000249.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000313.jpg,McLaren F1 car,Red Bull Racing F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000371.jpg,Red Bull Racing F1 car,Red Bull Racing F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Mercedes F1 car\00000156.jpg,Mercedes F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Ferrari F1 car\00000366.jpg,Ferrari F1 car,Ferrari F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Racing Point F1 car\00000115.jpg,Racing Point F1 car,Racing Point F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\AlphaTauri F1 car\00000414.jpg,AlphaTauri F1 car,AlphaTauri F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\AlphaTauri F1 car\00000134.jpg,AlphaTauri F1 car,Williams F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\McLaren F1 car\00000235.png,McLaren F1 car,McLaren F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Renault F1 car\00000023.jpg,Renault F1 car,Renault F1 car,True
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\Red Bull Racing F1 car\00000358.jpg,Red Bull Racing F1 car,Ferrari F1 car,False
+C:\Users\tyqnn\PycharmProjects\CNNProject\data\raw\Formula One Cars\AlphaTauri F1 car\00000379.jpg,AlphaTauri F1 car,Williams F1 car,False

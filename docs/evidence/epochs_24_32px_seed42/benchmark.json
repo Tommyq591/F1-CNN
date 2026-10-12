@@ -1,0 +1,7 @@
+{
+  "method": "Original observed first epoch plus warm median for remaining epochs",
+  "first_epoch_seconds": 187.9992178999819,
+  "warm_epoch_seconds": 8.250139799900353,
+  "estimated_training_minutes": 6.2958738882948335,
+  "note": "Estimate before training, excluding image hash verification and report export; early stopping may shorten the run."
+}

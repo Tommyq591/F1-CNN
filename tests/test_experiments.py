@@ -13,7 +13,7 @@ import torch
 from f1_cnn.config import TrainingConfig
 from f1_cnn.data import DatasetAudit, F1DataModule
 from f1_cnn.experiments import (file_hash, fixed_development_split,
-                                preserve_baseline, run_resolution_experiment)
+                                preserve_baseline, run_resolution_experiment, run_epoch_experiment)
 from f1_cnn.model import F1TeamCNN
 from f1_cnn.pipeline import save_json
 from f1_cnn.predict import TeamPredictor
@@ -62,6 +62,12 @@ class ExperimentTests(unittest.TestCase):
             preserve_baseline(self.baseline, evidence)
 
     def test_one_run_never_opens_test_images_or_replaces_original(self):
+        self._assert_isolated_run('image_size')
+
+    def test_epoch_only_run_reproduces_baseline_and_keeps_holdout_isolated(self):
+        self._assert_isolated_run('epochs')
+
+    def _assert_isolated_run(self, setting):
         torch.set_num_threads(1)
         seed_everything(42)
         trainer = Trainer(F1TeamCNN(2), self.config, self.audit.class_names, 'cpu')
@@ -84,18 +90,27 @@ class ExperimentTests(unittest.TestCase):
         pointer = output.parent / 'latest.json'
         pointer.parent.mkdir()
         pointer.write_text('original pointer')
+        run = run_resolution_experiment if setting == 'image_size' else run_epoch_experiment
+        options = {setting: 32 if setting == 'image_size' else 2, 'threads': 1}
         with patch('PIL.Image.open', side_effect=guarded_open):
-            result = run_resolution_experiment(self.baseline, output, evidence, image_size=32, threads=1)
+            result = run(self.baseline, output, evidence, **options)
         self.assertFalse(result['test_evaluated'])
         self.assertEqual(file_hash(self.baseline / 'baseline/best.pt'), old_hash)
         self.assertEqual(pointer.read_text(), 'original pointer')
         config = json.loads((output / 'config.json').read_text())
-        self.assertEqual({k for k, v in config.items() if v != self.config.to_dict()[k]}, {'image_size'})
+        self.assertEqual({k for k, v in config.items() if v != self.config.to_dict()[k]}, {setting})
         self.assertTrue((evidence / 'resolution/comparison.csv').exists())
         self.assertTrue((evidence / 'resolution/validation_confusion_matrix.png').exists())
+        self.assertTrue((evidence / 'resolution/per_team_validation_recall.png').exists())
+        if setting == 'epochs':
+            reproduction = json.loads((output / 'reproduction_check.json').read_text())
+            self.assertTrue(reproduction['matches_within_1e_6'])
+            self.assertEqual(reproduction['epochs_compared'], 1)
+            self.assertIn('Only maximum epochs changed', (evidence.parent / 'EXPERIMENT_LOG.md').read_text(encoding='utf-8'))
+            self.assertEqual(json.loads((output / 'protocol.json').read_text())['changed_setting'], 'epochs')
         self.assertEqual(len(TeamPredictor(output / 'best.pt').predict(self.splits['validation'][0].path)), 2)
         with self.assertRaises(FileExistsError):
-            run_resolution_experiment(self.baseline, output, evidence, image_size=32, threads=1)
+            run(self.baseline, output, evidence, **options)
 
 
 if __name__ == '__main__':

@@ -1,0 +1,11 @@
+{
+  "epochs_compared": 12,
+  "max_absolute_differences": {
+    "train_loss": 0.0,
+    "train_accuracy": 0.0,
+    "validation_loss": 0.0,
+    "validation_accuracy": 0.0
+  },
+  "matches_within_1e_6": true,
+  "note": "Compare overlapping epochs to check reproduction of the original training trajectory; timings excluded."
+}

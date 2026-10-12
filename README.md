@@ -46,6 +46,14 @@ Use the separate single-experiment runner to reuse the original split without ev
 
 It changes image size to 128 × 128 only, inherits all other settings from the saved original baseline, verifies development-image hashes and disjoint splits, and exports labelled validation figures, CSV comparison tables, per-team metrics and an experiment-log entry to `docs/`. The original `train` command above still runs the full multi-model suite including a test evaluation; use the focused runner for this staged improvement workflow. Load a candidate `best.pt` manually using **Load model** in `app.py`. Checkpoints under `docs/` are also ignored by Git, so include them separately when transferring the evidence archive.
 
+For the separate **longer-training experiment at the original 32px resolution**, change only the epoch cap:
+
+```powershell
+.\venv\Scripts\python.exe -m f1_cnn.experiments --epochs 24 --output runs/new_epochs_24_run
+```
+
+This starts from fresh initial weights with the saved baseline seed, retains patience 4 and all other original settings, and restores the checkpoint with minimum validation loss. The `--epochs` and `--image-size` options are mutually exclusive. A plan and runtime estimate are saved before training; the report includes per-team recall and a comparison of overlapping epochs with the original history. Existing run/evidence paths cannot be overwritten.
+
 | Path | Purpose |
 | --- | --- |
 | `app.py` | Desktop image picker |

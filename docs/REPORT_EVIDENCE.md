@@ -36,14 +36,28 @@ The completed candidate evidence is in [evidence/resolution_128_seed42](evidence
 | `environment.json` | Software versions, CPU thread count and hashes of the implementation used for the run. |
 | `result.json` | Final candidate validation metrics, best epoch, time and the predeclared preference decision. |
 
+## Longer-training experiment at 32px
+
+The completed E02 evidence is in [evidence/epochs_24_32px_seed42](evidence/epochs_24_32px_seed42/). Only the epoch cap changed from 12 to 24. Early stopping ended training at epoch **19** and restored epoch **15**, with validation accuracy **75.62%**, macro F1 **70.20%** and loss **0.7698**. This is a validation improvement, not a newly measured test result.
+
+- [All three validation comparisons](evidence/epochs_24_32px_seed42/all_validation_comparisons.csv): baseline, resolution-only candidate and longer-training candidate, with actual epochs, selected epochs and timings.
+- [Comparison learning curves](evidence/epochs_24_32px_seed42/comparison_learning_curves.png): first 12 epochs coincide exactly; subsequent epochs show continued training-loss reduction and fluctuating validation loss. The baseline curves are covered by the matching candidate curves during their shared range.
+- [Per-team recall chart](evidence/epochs_24_32px_seed42/per_team_validation_recall.png) and [per-team table](evidence/epochs_24_32px_seed42/per_team_validation.csv): report both improvements and regressions, including AlphaTauri's continuing low recall.
+- [Selected-checkpoint confusion matrix](evidence/epochs_24_32px_seed42/validation_confusion_matrix.png) and [matrix CSV](evidence/epochs_24_32px_seed42/validation_confusion_matrix.csv): actual labels on rows, predictions on columns, epoch 15.
+- [Reproduction check](evidence/epochs_24_32px_seed42/reproduction_check.json): zero differences in all four loss/accuracy metrics across the first 12 epochs; timings excluded.
+- [Paired validation counts](evidence/epochs_24_32px_seed42/paired_validation_counts.json): 20 corrected original errors and 10 newly incorrect images, a net gain of 10/365.
+- [Verification record](evidence/epochs_24_32px_seed42/verification.json): unchanged architecture, exactly one configuration difference, early-stopping restoration, source hashes and app compatibility.
+
+All ordinary per-run JSON, predictions, F1 chart and error-example exports listed above are also present in this folder. Candidate weights are at `runs/epochs_24_32px_seed42/best.pt`; use **Load model** in the application. Its original default remains unchanged.
+
 ## Interpretation rules
 
 - Compare validation with validation. The original 74.79% is a historical **test** accuracy; it cannot be directly used as the threshold for claiming a validation improvement.
 - Macro F1 weights each team equally and complements accuracy when team counts differ. Report both, plus AlphaTauri's recall and support; do not hide weak classes in an aggregate.
 - Distinguish “resolution changed the measured validation result” from the unproven explanation “the model learned logos better.” No saliency study or feature attribution establishes that mechanism here.
 - A single seed/split does not establish reliable superiority. The 18 AlphaTauri validation examples make its measured recall especially sensitive to individual images.
-- The two runs have the same epoch budget and architecture, but different compute cost. Report that cost alongside predictive performance.
+- The resolution comparison kept the epoch cap and architecture fixed. The longer-training comparison changed only the cap and stopped early. Report actual epochs and compute cost alongside predictive performance.
 - Training curves include dropout and evolving weights, while validation uses evaluation mode. Interpret their gap with this limitation in mind.
-- Further augmentation/optimisation experiments listed in the log are proposals. Do not describe them as completed, or claim that a fresh test evaluation occurred.
+- The remaining augmentation, class-weighting and optimisation suggestions are proposals; the explicitly documented longer-training run is complete. No fresh test evaluation occurred.
 
 Checkpoint files and the `runs/` directory are Git-ignored. Copy them explicitly when transferring the project or submitting an evidence archive. The full baseline backup includes all original suite models. Candidate weights are at `runs/resolution_128_seed42/best.pt`; the app's **Load model** control can open them without replacing its original default.

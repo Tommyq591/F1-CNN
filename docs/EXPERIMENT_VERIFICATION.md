@@ -12,3 +12,13 @@ Date: 12 October 2026. These are measured engineering checks for the completed r
 - `git diff --check` reported no whitespace errors. Git warned only about its configured LF-to-CRLF conversion for existing Markdown files.
 
 Measured candidate metrics, timings and figures are in [EXPERIMENT_LOG.md](EXPERIMENT_LOG.md) and [the evidence guide](REPORT_EVIDENCE.md). The original 74.79% test accuracy is historical; no new test accuracy was measured. Only the resolution experiment was run on the full dataset. The small synthetic training runs in automated tests are engineering fixtures, not model-selection experiments.
+
+## E02: longer-training verification — 12 October 2026
+
+- **8 tests passed**, including a new synthetic epoch-only experiment that reproduced the original training prefix, changed only `epochs`, exported recall evidence, refused overwrites, preserved the app pointer and raised if any held-out test image was opened. The existing resolution and full-pipeline fixture tests also passed.
+- The real run's first 12 epochs matched every original training/validation loss and accuracy exactly. Development paths/order and decoded pixels were verified before training. The plan and estimate were saved before verification in `evidence/epochs_24_32px_seed42_plan.json`.
+- The saved checkpoint records epoch **15** and its configuration differs from the original only in `epochs: 12 → 24`. It has the same state-dictionary keys and tensor shapes. Epochs 16–19 had no improved validation loss, verifying the four-epoch stopping condition. Evaluated validation accuracy matches epoch 15, not the last epoch.
+- All five source hashes in the run environment match the executed project files. The 35 pre-run hashes covering prior resolution artifacts, original model/training/preprocessing code and app default were unchanged. All 43 baseline artifacts matched their preservation hashes in both the original and backup locations.
+- The real hidden Tk application passed image-selection, preview, inference and top-three table checks using the new checkpoint and an original validation image. `app.py` and its default checkpoint pointer remain unchanged.
+- Visually inspected comparison curves, per-team recall and confusion matrix. The original and candidate curves overlap exactly through epoch 12. During figure QA, F1/recall legends were moved above the chart data using the saved metrics only; no training or predictions were changed.
+- No test-image evaluation or subsequent full-dataset experiment was performed. The new [verification JSON](evidence/epochs_24_32px_seed42/verification.json) and report artifacts are separate from the preserved resolution study.

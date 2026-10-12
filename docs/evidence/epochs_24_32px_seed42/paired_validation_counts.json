@@ -1,0 +1,6 @@
+{
+  "both_correct": 256,
+  "only_baseline_correct": 10,
+  "only_candidate_correct": 20,
+  "both_wrong": 79
+}

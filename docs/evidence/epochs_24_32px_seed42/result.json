@@ -1,0 +1,12 @@
+{
+  "best_epoch": 15,
+  "epochs": 19,
+  "training_seconds": 284.6885970006697,
+  "wall_seconds": 518.6056723000947,
+  "validation_accuracy": 0.7561643835616438,
+  "validation_macro_f1": 0.7019901676038451,
+  "validation_loss": 0.7697684947758505,
+  "preferred_by_validation": true,
+  "test_evaluated": false,
+  "app_default_changed": false
+}
