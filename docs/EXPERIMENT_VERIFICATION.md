@@ -1,0 +1,14 @@
+# Verification of the focused experiment workflow
+
+Date: 12 October 2026. These are measured engineering checks for the completed resolution experiment.
+
+- `venv/Scripts/python.exe -m unittest discover -s tests -v`: **7 tests passed**. The two new tests cover changed development pixels, overlapping split manifests, modified baseline backups, refusal to overwrite a run, actual one-factor training/export, checkpoint inference compatibility, unchanged application pointer and a guard that raises if candidate execution opens any test image. Existing pipeline tests also passed on synthetic fixtures.
+- Python syntax compilation passed for `f1_cnn/experiments.py`, `scripts/benchmark_resolution.py` and `tests/test_experiments.py`. The benchmark CLI help was checked.
+- `scripts/check_app.py` passed separately with the original checkpoint and the completed 128px checkpoint, using the same original **validation** image. Each check created the hidden Tk app, exercised the real image-selection callback, rendered the preview, ran inference in the worker and populated three ranked results. This verifies UI/inference operation, not prediction correctness on that particular image.
+- Every original run file and its preserved copy matched the SHA-256 values in `evidence/baseline_hashes.json` after training. The original `model.py`, `config.py`, `data.py`, `training.py` and `predict.py` matched their source snapshots. `runs/latest.json` matched its saved pre-experiment hash; `app.py` was not edited.
+- Comparing the saved original and candidate configurations found exactly one differing key: `image_size` (32 → 128). The candidate used the original train/validation membership and order; development decoded-pixel hashes were checked before training. No candidate test loader or test evaluation was created.
+- Original and candidate validation truth arrays matched exactly. Both classified 266/365 images correctly; 234 were correct for both, 32 only for the original, 32 only for the candidate and 67 wrong for both.
+- Visually inspected the labelled baseline validation confusion matrix, original learning curves, candidate comparison curves, per-team F1 chart and candidate validation confusion matrix. Labels, legends and values are readable and distinguish the original and candidate.
+- `git diff --check` reported no whitespace errors. Git warned only about its configured LF-to-CRLF conversion for existing Markdown files.
+
+Measured candidate metrics, timings and figures are in [EXPERIMENT_LOG.md](EXPERIMENT_LOG.md) and [the evidence guide](REPORT_EVIDENCE.md). The original 74.79% test accuracy is historical; no new test accuracy was measured. Only the resolution experiment was run on the full dataset. The small synthetic training runs in automated tests are engineering fixtures, not model-selection experiments.

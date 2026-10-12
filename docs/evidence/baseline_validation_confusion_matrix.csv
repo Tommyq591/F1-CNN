@@ -1,0 +1,9 @@
+Actual / predicted,AlphaTauri F1 car,Ferrari F1 car,McLaren F1 car,Mercedes F1 car,Racing Point F1 car,Red Bull Racing F1 car,Renault F1 car,Williams F1 car
+AlphaTauri F1 car,0,0,0,4,1,0,0,13
+Ferrari F1 car,0,52,1,0,1,0,0,1
+McLaren F1 car,0,8,35,0,2,1,3,6
+Mercedes F1 car,0,0,0,26,0,0,2,19
+Racing Point F1 car,0,2,1,1,37,0,1,1
+Red Bull Racing F1 car,0,3,0,2,0,36,2,7
+Renault F1 car,0,0,4,3,1,1,35,3
+Williams F1 car,0,1,0,2,0,2,0,45

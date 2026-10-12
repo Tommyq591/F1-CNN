@@ -1,0 +1,2243 @@
+{
+  "class_counts": {
+    "AlphaTauri F1 car": 119,
+    "Ferrari F1 car": 367,
+    "McLaren F1 car": 362,
+    "Mercedes F1 car": 310,
+    "Racing Point F1 car": 285,
+    "Red Bull Racing F1 car": 335,
+    "Renault F1 car": 315,
+    "Williams F1 car": 336
+  },
+  "invalid_files": [
+    [
+      "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000090.png",
+      "cannot identify image file 'data\\\\raw\\\\Formula One Cars\\\\Racing Point F1 car\\\\00000090.png'"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\Renault F1 car\\00000463.png",
+      "image file is truncated (0 bytes not processed)"
+    ]
+  ],
+  "removed_duplicates": [
+    [
+      "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000416.jpg",
+      "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000353.jpg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\McLaren F1 car\\00000143.jpg",
+      "data\\raw\\Formula One Cars\\McLaren F1 car\\00000040.jpg"
+    ]
+  ],
+  "excluded_label_conflicts": [
+    [
+      "data\\raw\\Formula One Cars\\McLaren F1 car\\00000019.jpg",
+      "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000028.jpg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\McLaren F1 car\\00000332.jpg",
+      "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000037.jpg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000203.jpg",
+      "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000231.jpg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\McLaren F1 car\\00000226.jpg",
+      "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000256.jpg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\McLaren F1 car\\00000260.jpg",
+      "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000294.jpg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\McLaren F1 car\\00000274.jpg",
+      "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000304.jpg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000393.jpg",
+      "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000392.jpg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000397.jpg",
+      "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000394.jpg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\McLaren F1 car\\00000403.jpg",
+      "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000399.jpg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\McLaren F1 car\\00000484.jpg",
+      "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000481.jpg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000181.jpg",
+      "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000138.jpg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000339.jpeg",
+      "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000276.jpeg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000092.jpg",
+      "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000119.jpg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000396.jpg",
+      "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000414.jpg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\McLaren F1 car\\00000191.jpg",
+      "data\\raw\\Formula One Cars\\Renault F1 car\\00000231.jpg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\McLaren F1 car\\00000320.jpg",
+      "data\\raw\\Formula One Cars\\Renault F1 car\\00000340.jpg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\Renault F1 car\\00000227.jpg",
+      "data\\raw\\Formula One Cars\\Williams F1 car\\00000200.jpg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000466.jpg",
+      "data\\raw\\Formula One Cars\\Williams F1 car\\00000450.jpg"
+    ],
+    [
+      "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000466.jpg",
+      "data\\raw\\Formula One Cars\\Williams F1 car\\00000498.jpg"
+    ]
+  ],
+  "skipped_non_images": [
+    "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000043.php",
+    "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000087.ashx",
+    "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000164.ashx",
+    "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000475.php",
+    "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000349.com",
+    "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000465.php",
+    "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000382.php",
+    "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000235.php",
+    "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000317.com",
+    "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000320.php",
+    "data\\raw\\Formula One Cars\\Renault F1 car\\00000027.php",
+    "data\\raw\\Formula One Cars\\Renault F1 car\\00000260.ashx",
+    "data\\raw\\Formula One Cars\\Renault F1 car\\00000263.ashx",
+    "data\\raw\\Formula One Cars\\Renault F1 car\\00000313.ashx",
+    "data\\raw\\Formula One Cars\\Williams F1 car\\00000436.php"
+  ],
+  "format_warnings": [
+    {
+      "path": "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000015.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000037.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000110.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000119.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000191.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000202.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000203.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000285.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000318.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000329.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000331.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000341.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000354.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000393.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000482.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000489.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\AlphaTauri F1 car\\00000490.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000025.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000033.180946",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000036.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000117.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000122.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000131.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000148.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000160.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000182.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000197.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000201.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000204.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000213.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000226.png",
+      "issues": [
+        "non-JPEG",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000229.png",
+      "issues": [
+        "non-JPEG",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000230.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000234.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000239.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000243.236165",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000246.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000251.png",
+      "issues": [
+        "non-JPEG",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000264.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000265.293783",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000291.215855",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000307.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000321.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000341.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000355.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000356.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000365.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000374.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000384.jpeg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000388.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000389.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000406.jpeg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000420.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000431.png",
+      "issues": [
+        "non-JPEG",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000434.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000437.jpg",
+      "issues": [
+        "non-JPEG",
+        "non-RGB"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000444.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000462.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000488.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000495.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Ferrari F1 car\\00000518.272105",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000015.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000024.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000034.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000039.jpeg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000040.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000043.238277",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000048.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000056.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000076.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000078.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000089.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000101.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000141.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000142.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000143.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000148.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000165.jpeg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000171.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000178.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000197.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000202.jpg",
+      "issues": [
+        "non-JPEG",
+        "non-RGB"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000210.336120",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000220.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000224.90150",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000229.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000230.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000233.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000235.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000254.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000277.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000283.jpeg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000290.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000329.230039",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000338.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000346.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000352.334770",
+      "issues": [
+        "non-JPEG",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000368.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000376.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000386.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000413.336117",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000425.238285",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000427.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000451.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000498.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000509.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\McLaren F1 car\\00000514.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000001.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000007.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000016.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000022.140416",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000043.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000067.jpg",
+      "issues": [
+        "non-JPEG",
+        "non-RGB"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000083.233463",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000091.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000095.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000097.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000101.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000107.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000117.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000131.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000138.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000141.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000198.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000210.png",
+      "issues": [
+        "non-JPEG",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000211.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000217.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000222.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000230.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000231.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000236.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000237.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000242.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000253.384753",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000267.223809",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000270.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000329.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000331.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000332.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000339.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000354.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000368.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000392.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000424.218564",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000425.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000435.png",
+      "issues": [
+        "non-JPEG",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000440.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000445.304495",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000461.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000464.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000480.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Mercedes F1 car\\00000499.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000009.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000043.192712",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000049.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000060.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000074.325281",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000092.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000105.335784",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000120.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000128.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000129.95679",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000155.358820",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000158.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000161.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000176.186745",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000177.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000195.199906",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000203.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000239.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000246.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000259.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000266.36085",
+      "issues": [
+        "non-JPEG",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000278.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000284.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000286.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000290.78113",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000330.360695",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000335.280429",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000336.png",
+      "issues": [
+        "non-JPEG",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000345.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000377.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000384.392412",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000387.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000399.214449",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000404.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000406.gif",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000422.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000425.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000429.png",
+      "issues": [
+        "non-JPEG",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000442.216788",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000446.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Racing Point F1 car\\00000503.319941",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000006.jpeg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000011.334231",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000022.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000031.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000035.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000056.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000058.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000059.156720",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000062.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000071.185422",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000106.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000113.142866",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000115.231188",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000119.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000122.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000141.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000145.156715",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000159.jpeg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000162.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000213.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000219.png",
+      "issues": [
+        "non-JPEG",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000239.231189",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000259.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000260.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000264.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000273.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000278.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000293.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000298.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000299.png",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000302.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000303.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000308.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000315.156718",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000321.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000323.jpg",
+      "issues": [
+        "non-JPEG",
+        "non-RGB"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000337.251211",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000344.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000366.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000368.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000373.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000374.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000381.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000384.jpeg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000400.png",
+      "issues": [
+        "non-JPEG",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000416.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000418.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000420.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000427.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000428.185417",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000431.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000432.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000442.jpeg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000454.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000468.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000471.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000483.239684",
+      "issues": [
+        "non-JPEG",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000488.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000497.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000498.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000506.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Red Bull Racing F1 car\\00000511.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000001.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000080.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000085.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000118.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000119.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000123.365494",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000137.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000148.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000164.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000196.177469",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000202.260024",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000203.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000216.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000227.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000250.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000267.82269",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000276.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000285.png",
+      "issues": [
+        "non-JPEG",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000292.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000310.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000314.346485",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000316.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000325.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000327.237437",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000363.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000366.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000390.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000407.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000422.png",
+      "issues": [
+        "non-JPEG",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000427.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000444.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000449.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000469.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000471.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000482.png",
+      "issues": [
+        "non-JPEG",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000486.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000490.177470",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000493.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000495.ashx",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000496.337275",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000499.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Renault F1 car\\00000517.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000036.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000037.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000064.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000076.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000085.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000114.144126",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000127.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000146.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000151.199290",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000169.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000175.199296",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000180.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000195.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000200.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000202.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000208.146061",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000223.231327",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000231.png",
+      "issues": [
+        "non-JPEG",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000233.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000276.jpg",
+      "issues": [
+        "non-RGB"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000278.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000305.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000336.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000343.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000368.332043",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000395.146049",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000409.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000410.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000411.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000418.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000452.jpeg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000471.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000491.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000492.jpg",
+      "issues": [
+        "non-JPEG"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000511.68566",
+      "issues": [
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000533.png",
+      "issues": [
+        "non-JPEG",
+        "non-JPEG extension"
+      ]
+    },
+    {
+      "path": "data\\raw\\Formula One Cars\\Williams F1 car\\00000540.png",
+      "issues": [
+        "non-JPEG",
+        "non-RGB",
+        "non-JPEG extension"
+      ]
+    }
+  ],
+  "photos_retained": 2429,
+  "root": "C:\\Users\\tyqnn\\PycharmProjects\\CNNProject\\data\\raw\\Formula One Cars"
+}

@@ -1,0 +1,36 @@
+{
+  "baseline": "C:\\Users\\tyqnn\\PycharmProjects\\CNNProject\\runs\\local_original_32px",
+  "original_config": {
+    "image_size": 32,
+    "batch_size": 32,
+    "epochs": 12,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "dropout": 0.3,
+    "seed": 42,
+    "augment": false,
+    "patience": 4,
+    "num_workers": 0,
+    "cache_images": true
+  },
+  "updated_config": {
+    "image_size": 128,
+    "batch_size": 32,
+    "epochs": 12,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "dropout": 0.3,
+    "seed": 42,
+    "augment": false,
+    "patience": 4,
+    "num_workers": 0,
+    "cache_images": true
+  },
+  "changed_setting": "image_size",
+  "checkpoint_selection": "minimum validation loss",
+  "comparison_rule": "validation macro F1, then validation accuracy",
+  "manifest_sha256": "d531c47a16c33460681e70a8975777bb4fda3b2150661e43db8d25ac23c19311",
+  "test_evaluated": false,
+  "test_images_opened": false,
+  "utc_completed": "2026-10-12T00:56:13.141513+00:00"
+}

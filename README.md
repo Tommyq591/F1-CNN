@@ -32,6 +32,20 @@ Seeds improve repeatability, but results can differ across hardware and package 
 
 ## Files and evidence
 
+### Focused improvement experiment
+
+The recorded original model used **32 × 32** images and achieved **74.79% test accuracy / 67.40% test macro F1**. Its artifacts and checkpoints are preserved under `docs/evidence/baseline/` as well as the original run. See [the experiment log](docs/EXPERIMENT_LOG.md) for the weakness analysis, fixed protocol and measured outcome of the first resolution-only experiment.
+
+Use the separate single-experiment runner to reuse the original split without evaluating the test set or changing the app's default checkpoint:
+
+```powershell
+# Estimate CPU cost first; each output path must be new.
+.\venv\Scripts\python.exe scripts/benchmark_resolution.py --output .cache/experiments/new_benchmark.json
+.\venv\Scripts\python.exe -m f1_cnn.experiments --output runs/new_resolution_run --benchmark .cache/experiments/new_benchmark.json
+```
+
+It changes image size to 128 × 128 only, inherits all other settings from the saved original baseline, verifies development-image hashes and disjoint splits, and exports labelled validation figures, CSV comparison tables, per-team metrics and an experiment-log entry to `docs/`. The original `train` command above still runs the full multi-model suite including a test evaluation; use the focused runner for this staged improvement workflow. Load a candidate `best.pt` manually using **Load model** in `app.py`. Checkpoints under `docs/` are also ignored by Git, so include them separately when transferring the evidence archive.
+
 | Path | Purpose |
 | --- | --- |
 | `app.py` | Desktop image picker |

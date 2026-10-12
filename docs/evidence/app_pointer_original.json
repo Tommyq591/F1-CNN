@@ -1,0 +1,8 @@
+{
+  "path": "runs/latest.json",
+  "sha256": "9941b9bab507921933d79a4955b861bd7b60a1cf15e7c96c601671b17f902d21",
+  "contents": {
+    "run": "C:\\Users\\tyqnn\\PycharmProjects\\CNNProject\\runs\\local_original_32px",
+    "checkpoint": "C:\\Users\\tyqnn\\PycharmProjects\\CNNProject\\runs\\local_original_32px\\baseline\\best.pt"
+  }
+}

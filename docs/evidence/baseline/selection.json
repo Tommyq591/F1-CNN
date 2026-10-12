@@ -1,0 +1,16 @@
+{
+  "selected": "baseline",
+  "criterion": "validation macro F1, then accuracy",
+  "experiments": {
+    "baseline": {
+      "accuracy": 0.7287671232876712,
+      "balanced_accuracy": 0.670019454815348,
+      "macro_f1": 0.6586863966280917
+    },
+    "augmented": {
+      "accuracy": 0.7123287671232876,
+      "balanced_accuracy": 0.6551355089739552,
+      "macro_f1": 0.6398619343188608
+    }
+  }
+}

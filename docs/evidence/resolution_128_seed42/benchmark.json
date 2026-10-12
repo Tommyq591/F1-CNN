@@ -1,0 +1,16 @@
+{
+  "threads": 4,
+  "device": "cpu",
+  "image_size": 128,
+  "batch_size": 32,
+  "training_batch_seconds": [
+    2.229381399927661,
+    1.9037437001243234,
+    1.7636476999614388,
+    1.7420244000386447,
+    1.7664383000228554
+  ],
+  "validation_batch_seconds": 0.7231680999975652,
+  "warm_epoch_estimate_seconds": 103.99033919954672,
+  "note": "Synthetic batches; discarded weights; excludes image decoding and caching."
+}

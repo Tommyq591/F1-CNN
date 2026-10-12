@@ -1,0 +1,20 @@
+{
+  "python": "3.12.10",
+  "device": "cpu",
+  "threads": 4,
+  "packages": {
+    "torch": "2.14.1",
+    "torchvision": "0.29.1",
+    "numpy": "2.5.3",
+    "Pillow": "12.3.0",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  },
+  "source_hashes": {
+    "experiments.py": "6e47a4ad7ff4ba8ed1360438beebea939c7e55a5f77fa54c2c83e9608f1c2826",
+    "model.py": "e0197a3e5040de1e3801df131756cea5c112d5f0d7da515b928de4a6bc29f3c7",
+    "data.py": "b8a8b858389d2caf17f5064df368ccd4de869c56c3dae4136f1bb75d0847377e",
+    "training.py": "3f55a959d273f066c33d83332849afac9f03be6d897a84c895d36a6577c9fc56",
+    "config.py": "222fcabf75fcf8c3354b09b19242f7d2c75dbc8dc6281663d0147bdab0734a9f"
+  }
+}

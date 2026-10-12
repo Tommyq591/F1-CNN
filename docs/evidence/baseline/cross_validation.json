@@ -1,0 +1,31 @@
+{
+  "configuration": "baseline",
+  "folds": [
+    {
+      "accuracy": 0.7252906976744186,
+      "balanced_accuracy": 0.6906163689303991,
+      "macro_f1": 0.6921298127212667
+    },
+    {
+      "accuracy": 0.7151162790697675,
+      "balanced_accuracy": 0.6609922193174902,
+      "macro_f1": 0.6362552567513072
+    },
+    {
+      "accuracy": 0.7369186046511628,
+      "balanced_accuracy": 0.7021132680103781,
+      "macro_f1": 0.6966232975470013
+    }
+  ],
+  "mean": {
+    "accuracy": 0.7257751937984497,
+    "balanced_accuracy": 0.6845739520860891,
+    "macro_f1": 0.6750027890065251
+  },
+  "std": {
+    "accuracy": 0.010909234737594638,
+    "balanced_accuracy": 0.021215990723768133,
+    "macro_f1": 0.03363147771614618
+  },
+  "note": "Development CV after configuration selection; not nested CV or an unbiased final estimate."
+}

@@ -1,0 +1,13 @@
+{
+  "image_size": 32,
+  "batch_size": 32,
+  "epochs": 12,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "dropout": 0.3,
+  "seed": 42,
+  "augment": true,
+  "patience": 4,
+  "num_workers": 0,
+  "cache_images": true
+}
